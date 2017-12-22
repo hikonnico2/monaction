@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "monaction.data.unityweb",
+"asmCodeUrl": "monaction.asm.code.unityweb",
+"asmMemoryUrl": "monaction.asm.memory.unityweb",
+"asmFrameworkUrl": "monaction.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
